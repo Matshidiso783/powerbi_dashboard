@@ -16,9 +16,6 @@ Interactive dashboard analyzing global survey data about salaries, job roles, an
 - Trends in industry and roles  
 - Easy-to-read visualizations including pie charts, stacked bar charts, and cards  
 
-**Files Included:**  
-- `DataProfessionalSurvey.pbix` → Power BI dashboard file  
-- `dashboard_screenshot.png` → screenshot of the main dashboard visuals  
 
 **Next Steps / Learning Path:**  
 - Further analysis using Python  
